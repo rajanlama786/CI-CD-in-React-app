@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/cicd-react/static/css/main.0315cfef.css",
-    "main.js": "/cicd-react/static/js/main.cd445ea5.js",
-    "static/js/787.e5570eed.chunk.js": "/cicd-react/static/js/787.e5570eed.chunk.js",
-    "static/media/logo.svg": "/cicd-react/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/cicd-react/index.html",
-    "main.0315cfef.css.map": "/cicd-react/static/css/main.0315cfef.css.map",
-    "main.cd445ea5.js.map": "/cicd-react/static/js/main.cd445ea5.js.map",
-    "787.e5570eed.chunk.js.map": "/cicd-react/static/js/787.e5570eed.chunk.js.map"
+    "main.css": "/CI-CD-in-React-app/static/css/main.0315cfef.css",
+    "main.js": "/CI-CD-in-React-app/static/js/main.1580db27.js",
+    "static/js/787.e5570eed.chunk.js": "/CI-CD-in-React-app/static/js/787.e5570eed.chunk.js",
+    "static/media/logo.svg": "/CI-CD-in-React-app/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/CI-CD-in-React-app/index.html",
+    "main.0315cfef.css.map": "/CI-CD-in-React-app/static/css/main.0315cfef.css.map",
+    "main.1580db27.js.map": "/CI-CD-in-React-app/static/js/main.1580db27.js.map",
+    "787.e5570eed.chunk.js.map": "/CI-CD-in-React-app/static/js/787.e5570eed.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.0315cfef.css",
-    "static/js/main.cd445ea5.js"
+    "static/js/main.1580db27.js"
   ]
 }
